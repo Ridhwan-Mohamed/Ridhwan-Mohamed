@@ -30,8 +30,11 @@ Real-time GPU particle simulation and rendering with C++20, DirectX 12, and HLSL
 ⚙️ **Gravity Forge**
 GPU-driven rendering experiments involving compute shaders, visibility, culling, frame resources, synchronization, and rendering architecture.
 
-🧭 **Runtime Navmesh Systems**
-Dynamic pathfinding and runtime navigation-mesh mutation for game environments.
+🏰 **Permit Approved**
+A Phaser-based RTS / colony-sim game with real-time unit movement, building, resource gathering, combat, and settlement systems.
+
+🧭 **Phaser Navmesh Acceleration**
+Extended the main Phaser navmesh library with runtime mesh mutation, localized polygon patching, and bounded rebuilds to avoid rebuilding the full navmesh after world changes.
 
 🖥️ **3DFX.js**
 A software 3D renderer built from scratch with rasterization, clipping, texturing, depth buffering, and transforms.
